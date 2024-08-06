@@ -1,0 +1,32 @@
+{
+  "Management": [
+    {
+      "id": "02",
+      "staffName": "Vishal",
+      "staffNo": 1234567654,
+      "staffAdd": "Chennai",
+      "staffQuali": "PhD",
+      "staffSub": "CN",
+      "staffJoin": "2024-07-31",
+      "staffMail": "vishal@gmail.com",
+      "staffBirth": "",
+      "staffExperience": "5",
+      "staffCertificate": "Nasscom",
+      "staffSalary": 200000
+    },
+    {
+      "id": "03",
+      "staffName": "Sri",
+      "staffNo": 923456788895,
+      "staffAdd": "Chennai",
+      "staffQuali": "PhD",
+      "staffSub": "CN",
+      "staffJoin": "2024-08-01",
+      "staffMail": "srinithi@gmail.com",
+      "staffBirth": "",
+      "staffExperience": "4",
+      "staffCertificate": "NPTEL",
+      "staffSalary": 120000
+    }
+  ]
+}

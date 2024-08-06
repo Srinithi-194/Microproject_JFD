@@ -1,0 +1,18 @@
+label{
+    font-size: large;
+    color: darkcyan ;
+}
+.container{
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 3px gray;
+}
+.main{
+    margin-top: 40px;
+}
+h3{
+    margin-left: 550px;
+    color: darkcyan;
+}
